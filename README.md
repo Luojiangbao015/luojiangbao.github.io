@@ -6,7 +6,7 @@ class maya()
     int a;
     int y;
     void aa(int x){
-      a=50;  
+      a=600;  
     };
 }
 ```
